@@ -1,20 +1,19 @@
 *{
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
 }
 
 body{
     text-align: center;
-    background-color: #613a62;
-    color:#fff;
+    background-color: #cecece;
 }
 
-h1, h2, p{
+h1, h2, p {
     padding: 30px;
 }
 
-h1 {
-    color:#7f228b;
+h1{
+    color:#fff;
 }
 
 p{
